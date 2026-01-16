@@ -27,9 +27,8 @@ A structured collection of web development learning and practice projects, desig
 <hr>
 
 <h2 align="center">Devices Used</h2>
-<p align="center">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/882/882748.svg" alt="Ikon Acer">
-
-  <img src="https://cdn.brandfetch.io/idU5f0qn_t/w/500/h/201/theme/dark/logo.png" alt="Logo Advan">
-
+<p align="left">
+  <img src="assets/images/acer.png" width="80">
+  <img src="assets/images/advan.png" width="80">
 </p>
+
