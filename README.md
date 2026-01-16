@@ -24,11 +24,3 @@ A structured collection of web development learning and practice projects, desig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
 </p>
 
-<hr>
-
-<h2 align="center">Devices Used</h2>
-<p align="left">
-  <img src="assets/images/acer.png" width="80">
-  <img src="assets/images/advan.png" width="80">
-</p>
-
